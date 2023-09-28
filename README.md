@@ -5,6 +5,7 @@ This is REAMDE.
 - item2
 
 ## Part 2
+1. Sunday
 1. Monday
 1. Tusday
 1. Wednesday
